@@ -8,13 +8,9 @@ Projekt inteligentnego sejfu łączący mechaniczne zabezpieczenia z monitoringi
 | :-: | :-: |
 | ![Sejf](img/Sejf.jpg) | ![Środek](img/Sejf_Srodek.jpg) |
 
-| Interfejs - Blokada PIN | Interfejs - RFID |
+| Interfejs - RFID | Aplikacja - Wykrycie Ruchu
 | :-: | :-: |
-| ![Zły PIN](img/Sejf_ZlyPin.jpg) | ![RFID](img/SejfRFID.jpg) |
-
-| Interfejs - Krotki pin | Aplikacja - Wykrycie ruchu/PIN |
-| :-: | :-: |
-| ![Krótki pin](img/Sejf_KrotkiPin.jpg) | ![RFID](img/WykrycieRuchu.png) |
+| ![RFID](img/SejfRFID.jpg) | ![Wykrycie Ruchu](img/WykrycieRuchu.png) |
 
 ## Główne Funkcjonalności
 
