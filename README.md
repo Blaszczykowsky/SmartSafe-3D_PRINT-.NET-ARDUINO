@@ -34,8 +34,8 @@ Poniżej znajduje się zestawienie kluczowych komponentów wykorzystanych w proj
 
 | Element | Rola w systemie | Link (Przykładowy) |
 | :--- | :--- | :--- |
-| **ESP32-CAM** | Główna jednostka, serwer wideo, obsługa klawiatury i LCD. | [[Link do sklepu](https://pl.aliexpress.com/item/1005008285512156.html?gatewayAdapt=glo2pol)] |
-| **ESP (Dowolny)** | Kontroler zamka, obsługa czytnika RFID. | [[Link do sklepu](https://pl.aliexpress.com/item/1005006418608267.html?gatewayAdapt=glo2pol)] |
+| **ESP32-CAM** | Główna jednostka, serwer wideo, obsługa klawiatury, LCD i Zamka. | [[Link do sklepu](https://pl.aliexpress.com/item/1005008285512156.html?gatewayAdapt=glo2pol)] |
+| **ESP (Dowolny)** | Obsługa czytnika RFID. | [[Link do sklepu](https://pl.aliexpress.com/item/1005006418608267.html?gatewayAdapt=glo2pol)] |
 | **Czytnik RFID RC522** | Autoryzacja kartami zbliżeniowymi 13.56 MHz. | [[Link do sklepu](https://pl.aliexpress.com/item/1005006949661232.html?gatewayAdapt=glo2pol)] |
 | **Klawiatura membranowa 3x4** | Interfejs wprowadzania kodu PIN. | [[Link do sklepu](https://pl.aliexpress.com/item/1005004948322546.html?gatewayAdapt=glo2pol)] |
 | **Wyświetlacz LCD 2x16 (I2C)** | Wyświetlanie komunikatów systemowych. | [[Link do sklepu](https://pl.aliexpress.com/item/1005003785193247.html?gatewayAdapt=glo2pol)] |
